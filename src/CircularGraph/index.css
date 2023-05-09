@@ -1,0 +1,21 @@
+.circle-main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.div-circle{
+    background: #19234A;
+    padding:'15px';
+    margin:"25px";
+    width:"30%";
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4rem;
+    border-radius: 10px;
+}

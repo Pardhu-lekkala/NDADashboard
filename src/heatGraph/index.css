@@ -1,0 +1,20 @@
+.main-div{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.graph-cont{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+.data-sty{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #ffffff;
+}
