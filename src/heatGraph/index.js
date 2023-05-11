@@ -105,7 +105,7 @@ function HeatMapGrid() {
                 background: value === 0 ? "#C18970" : "#184975",
                 fontSize: "18px",
                 borderRadius: "5px",
-                border: "1px solid #fff",
+                border: "0px solid #fff",
                 height:"20px",
                 width:"50px"
             })}
