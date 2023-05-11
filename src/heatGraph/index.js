@@ -3,8 +3,8 @@ import HeatMap from "react-heatmap-grid";
 import './index.css'
 
 function HeatMapGrid() {
-  const xLabels = ["1", "2", "3", "4", "5", "6", "7"];
-  const yLabels = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
+  const xLabels = ["", "", "", "", "", "", ""];
+  const yLabels = ["", "", "", "", "", "", "", "", "", ""];
   const [data, setData] = useState(
     new Array(yLabels.length)
       .fill(0)
